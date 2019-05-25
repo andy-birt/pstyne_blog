@@ -24,6 +24,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 # Paperclip is used for managing file attachments and uploading
 gem 'paperclip'
+# Sorcery is a lightweight and straightforward authentication service gem. It strikes a good balance of functionality and complexity.
+gem 'sorcery'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
