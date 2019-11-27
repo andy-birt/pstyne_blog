@@ -32,6 +32,7 @@ gem 'sorcery'
 # gem 'bcrypt', '~> 3.1.7'
 gem "nokogiri", ">= 1.10.4"
 gem "loofah", ">= 2.3.1"
+gem "rubyzip", ">= 1.3.0"
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
